@@ -35,6 +35,8 @@ Tools       : Git, GitHub, VS Code, Postman, Vite, Webpack
 CMS         : WordPress, Custom PHP CMS
 Deployments : Vercel, Netlify, cPanel, XAMPP, phpMyAdmin
 
+```
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoway-git&theme=tokyonight" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ridoway-git&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoway-git&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
@@ -46,4 +48,4 @@ Deployments : Vercel, Netlify, cPanel, XAMPP, phpMyAdmin
 📬 Reach out via Email or LinkedIn
 
 <p align="center"> <strong>⭐ Thanks for visiting! Don't forget to star your favorite repositories!</strong> </p>
- ```
+ 
