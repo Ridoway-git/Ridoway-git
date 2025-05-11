@@ -1,50 +1,77 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Hello+World+👋;I'm+Your+Friend's+Name+%7C+Cybersecurity+Enthusiast;Securing+the+Digital+Realm+One+Byte+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=650&lines=Hey+there+👋;I'm+Ridoy+%7C+Full+Stack+Web+Developer;Building+Dynamic+PHP+%2B+React+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://your-friends-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:your-friends-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-friends-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/your-x-profile">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
 ---
 
-### 🛡️ About Me
+## 👨‍💻 About Me
 
-- 🔐 Passionate **Cybersecurity Professional** with a focus on ethical hacking and threat analysis.
-- 🧠 Skilled in **Network Security**, **Penetration Testing**, and **Incident Response**.
-- 🛠️ Proficient with tools like **Wireshark**, **Nmap**, **Metasploit**, and **Burp Suite**.
-- 🌐 Advocate for **Cyber Hygiene** and continuous learning in the ever-evolving security landscape.
-- 🎯 Currently exploring **Cloud Security** and **Zero Trust Architectures**.
+- 💻 **Full Stack Web Developer** passionate about building seamless, user-centric apps.
+- 🛠️ Skilled in **PHP + Laravel** (backend) and **React + JavaScript** (frontend).
+- 🌐 Expert in creating **responsive and modern websites** with clean code.
+- 🔒 Experienced with **OOP**, **PDO**, **REST APIs**, **JWT**, **React Hooks**.
+- 🚀 Currently exploring **GraphQL**, **TypeScript**, and **CI/CD**.
 
 ---
 
-### 🧰 Tech & Tools
+## 🧰 Tech Stack
 
-```ts
-Languages   : Python, Bash, PowerShell
-Security    : Kali Linux, Metasploit, Wireshark, Nmap, Burp Suite, Nessus
-Cloud       : AWS Security, Azure Security
-Tools       : Git, GitHub, VS Code, Postman
-Certifications: CompTIA Security+, CEH (Certified Ethical Hacker)
+Frontend : React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+Backend : PHP, Laravel, MySQL, Node.js
+Tools : Git, GitHub, VS Code, Postman, Vite, Docker, Figma
+CMS : WordPress, Custom PHP CMS
+DevOps : Vercel, Netlify, AWS, cPanel, phpMyAdmin
 
-```
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-friends-username&theme=tokyonight" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-friends-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-friends-username&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,mysql,js,ts,html,css,tailwind,bootstrap,wordpress,git,github,vscode,docker,aws,figma,postman" />
+</p>
 
-🧩 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,aws,azure,git,vscode" /> </p>
+---
 
-🤝 Let's Connect
-💬 Interested in collaborating on security projects or need assistance?
-📬 Reach out via Email or LinkedIn
+## 📊 GitHub Stats
 
-<p align="center"> <strong>⭐ Thanks for visiting! Stay safe and secure in the digital world!</strong> </p> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoway-git&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridoway-git&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoway-git&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+- 🔗 [**Project 1**](https://github.com/Ridoway-git/project1): Full-stack e-commerce platform (Laravel + React) with secure payments and responsive design.
+- 🔗 [**Project 2**](https://github.com/Ridoway-git/project2): Custom CMS with PHP/MySQL backend and React frontend.
+- 🔗 [**Project 3**](https://github.com/Ridoway-git/project3): Real-time chat app using WebSocket + Laravel + React.
+
+---
+
+## 🤝 Let’s Collaborate
+
+- 💡 Got a project idea or need a skilled developer?
+- 📬 Reach out via [Email](mailto:your-email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🌐 Visit my [Portfolio](https://your-portfolio-link.com)
+
+---
+
+<p align="center"><strong>⭐ Thanks for stopping by! Star my repos if you like what you see!</strong></p>
+
