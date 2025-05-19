@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://your-portfolio-linkas.com">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:your-email@example.com">
