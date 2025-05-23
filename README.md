@@ -31,7 +31,7 @@
 
 ## 🧰 Tech Stack
 
-Frontend : React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+Frontend : React.js, JavaScript , TypeScript , HTML5 , CSS3 , Tailwind CSS , Bootstrap
 Backend : PHP, Laravel, MySQL, Node.js
 Tools : Git, GitHub, VS Code, Postman, Vite, Docker, Figma
 CMS : WordPress, Custom PHP CMS
