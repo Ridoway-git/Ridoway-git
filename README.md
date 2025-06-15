@@ -1,24 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuagpp.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=650&lines=👋✨Hey+there+👋✨;I am+Ridoy+%7C+Full+Stack+Web+Developer;Building+Dynamic+PHP+%2B+React+Solutions" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://your-portfolio-linkfas.com">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedisn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/your-x-profile">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 💻 **Full Stack Web Developer** passionate about building seamless, user-centric apps.
@@ -57,21 +36,7 @@ DevOps : Vercel, Netlify, AWS, cPanel, phpMyAdmin
 
 ---
 
-## 🌟 Featured Projects
 
-- 🔗 [**Project 1**](https://github.com/Ridoway-git/project1): Full-stack e-commerce platform (Laravel + React) with secure payments and responsive design.
-- 🔗 [**Project 2**](https://github.com/Ridoway-git/project2): Custom CMS with PHP/MySQL backend and React frontend.
-- 🔗 [**Project 3**](https://github.com/Ridoway-git/project3): Real-time chat app using WebSocket + Laravel + React.
-
----
-
-## 🤝 Let’s Collaborate
-
-- 💡 Got a project idea or need a skilled developer?
-- 📬 Reach out via [Email](mailto:your-email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🌐 Visit my [Portfolio](https://your-portfolio-link.com)
-
----
 
 <p align="center"><strong>⭐ Thanks for stopping by! Star my repos if you like what you see!</strong></p>
 
