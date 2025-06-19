@@ -4,7 +4,7 @@
 - 🛠️ Skilled in **PHP + Laravel** (backend) and **React + JavaScript** (frontend).
 - 🌐 Expert in creating **responsive and modern websites** with clean code.
 - 🔒 Experienced with **OOP**, **PDO**, **REST APIs**, **JWT**, **React Hooks**.
-- 🚀 Currently exploring **GraphQL**, **TypeScript**, and **CI/CD**.
+- 🚀 Currently exploring **GraphQL**, **TypeScript**, and **CI and CD**.
 
 ---
 
