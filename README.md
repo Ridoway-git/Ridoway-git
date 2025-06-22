@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-- 💻 **Full Stack Web Developer** passionate about building seamless, user-centric apps.
+- 💻 **Full Stack Developer** passionate about building seamless, user-centric apps.
 - 🛠️ Skilled in **PHP + Laravel** (backend) and **React + JavaScript** (frontend).
 - 🌐 Expert in creating **responsive and modern websites** with clean code.
 - 🔒 Experienced with **OOP**, **PDO**, **REST APIs**, **JWT**, **React Hooks**.
