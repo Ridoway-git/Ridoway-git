@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## About Me
 
 - 💻 **Full Stack Developer** passionate about building seamless, user-centric apps.
 - 🛠️ Skilled in **PHP + Laravel** (backend) and **React + JavaScript** (frontend).
